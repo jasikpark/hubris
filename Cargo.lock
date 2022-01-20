@@ -948,6 +948,7 @@ dependencies = [
  "drv-stm32h7-spi",
  "idol",
  "idol-runtime",
+ "indexmap",
  "num-traits",
  "proc-macro2",
  "quote",
